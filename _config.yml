@@ -1,0 +1,27 @@
+
+gems: [jekyll-paginate,jekyll-gist,redcarpet]
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            AltDelete
+tagline:          'AltDelete tagline'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://altdelete.github.io
+baseurl:          /
+
+author:
+  name:           'AltDelete'
+  url:            https://twitter.com/AltDelete
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
