@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            AltDelete
 tagline:          'AltDelete tagline'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'The thoughts of a burgeoning systems engineer. Follow me <a href="https://twitter.com/mdo" target="_blank">@altdelete</a>.'
 url:              http://altdelete.github.io
 baseurl:          /
 
@@ -24,4 +24,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/AltDelete
